@@ -28,6 +28,7 @@ It includes data cleaning, pivot tables, and an interactive dashboard.
 * Price varies by brand significantly
 
 ## 📷 Dashboard Preview
+<https://github.com/ManishDataScience/DataAnalyticsExcel_Project/blob/main/Dashboard.png>
 
 ![Dashboard](Screenshot%20\(28\).png)
 
